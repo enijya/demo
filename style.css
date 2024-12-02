@@ -1,0 +1,102 @@
+
+h1, h2, h3
+{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ff779e;}
+button 
+{ color: rgb(255, 177, 237);}
+header 
+{ padding-top: 1em;}
+body 
+{ color: rgb(136, 0, 61);
+    background-color: #ffdadf;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+body a 
+{color: rgb(255, 255, 255);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+footer 
+{font-family: cursive;
+color: rgb(255, 0, 132);
+size: 2cm;}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: large;
+
+    background-color: #ffeaf0;
+}
+
+nav a {
+    color: #ef3167;
+}
+
+
+.witruimte 
+{
+    height: 20px;
+}
+
+
+h1 
+{
+    font-family: fantasy;
+    color: #ef3167;
+}
+
+.banner 
+{
+    background-color: #F2529D;
+    display: flex;
+    justify-content: center;
+}
+
+
+.afleveringen 
+{
+    display: flex;
+    justify-content: left;
+    gap: 4em;
+    flex-wrap: wrap;
+}
+
+.wij 
+{
+    display: flex;
+    background-color: #feacc4; 
+    justify-content: center;
+    padding: 2em;
+    gap: 4em;
+}
+
+.tekstJ 
+{
+    display: flex;
+    background-color: #ffeaf0;
+    justify-content: space-between;
+    width: 370px;
+}
+
+.tekstG
+{
+    display: flex;
+    background-color: #ffeaf0;
+    justify-content: space-between;
+    width: 370px;
+}
+
+.tekstE 
+{
+    display: flex;
+    background-color: #ffeaf0;
+    justify-content: space-between;
+    width: 370px;
+}
+
+.spacer 
+{
+    width: 100px;
+}
